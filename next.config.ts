@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // 删除 output: 'export'
+  // 删除 basePath
   trailingSlash: true,
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/Admin-dashboard-reacticon-reactchart' : '',
 }
 
 module.exports = nextConfig
