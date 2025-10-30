@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[7639,["/Admin-dashboard-reacticon-reactchart/_next/static/chunks/46e194b2916d1104.js"],"default"]
+3:I[33977,["/Admin-dashboard-reacticon-reactchart/_next/static/chunks/46e194b2916d1104.js"],"default"]
+0:{"buildId":"MlMkj7ocfUzX4Xuvp3t97","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
