@@ -6,8 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "export": "next export",
+    "predeploy": "npm run build && npm run export",
+    "deploy": "gh-pages -d out"
   },
+  "homepage": "https://github.com/Eoracco/Admin-dashboard-reacticon-reactchart",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
     "cmdk": "^1.1.1",
